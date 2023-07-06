@@ -11,5 +11,5 @@ numpy==1.14.0
 pyparsing==2.2.0          # via matplotlib
 python-dateutil==2.6.1    # via matplotlib
 pytz==2017.3              # via matplotlib
-scipy==0.19.1
+scipy==1.10.0
 six==1.11.0               # via cycler, python-dateutil
